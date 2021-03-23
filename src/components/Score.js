@@ -3,7 +3,7 @@ import React from 'react';
 function Score(props) {
     return(
         <div className="score">
-            {props.p}
+           Score: {props.p}
             
            
         </div>

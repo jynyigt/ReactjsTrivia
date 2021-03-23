@@ -16,6 +16,10 @@ body,
   margin: 10px;
 
 }
+.time{
+  text-align: center;
+  font-size: 50px;
+}
 .start {
   max-width: 400px;
   width: 100%;
